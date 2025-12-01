@@ -79,19 +79,12 @@ A Máquina de Turing proposta é definida por:
 ## 🔀 Diagrama da Máquina de Turing (ASCII)
 
 Representação simplificada do comportamento geral:
-
-           +----------------------+
-           
+           +----------------------+           
   q0) --(# → #, R)--> (q_scan_right) --0/1--> (q_compute) --write--> (q_write)
-  
   |                      |                                   |
-  
   |                      | if # -> accept                    |
-  
   |                      v                                   v
-
   +-----------------> (q_accept) <---------------------- (q_return)
-  
                         (halt)
 
 
