@@ -5,7 +5,7 @@ Instituto Federal Goiano – Campus Trindade
 
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
 ![Python](https://img.shields.io/badge/python-3.10+-blue)
-![MT](https://img.shields.io/badge/Máquina%20de%20Turing-Regra%2030-orange)v
+![MT](https://img.shields.io/badge/Máquina%20de%20Turing-Regra%2030-orange)
 
 ## 📌 Descrição do Projeto
 Este trabalho implementa uma **Máquina de Turing** capaz de gerar a **próxima linha** de um autômato celular unidimensional segundo a **Regra 30**, proposta por Stephen Wolfram.
